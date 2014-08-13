@@ -19,26 +19,26 @@ forgotten the basics of Python.
 Pearls
 ------
 
-Students will work in teams of 2-4 people to develop a game. There will be a
-few milestones: implementing the game in a terminal, then implementing the game
-in a simple GUI, and finally (as an extension) writing a simple AI to play the
-game, hopefully beating its human opponent every time! Muahahahahaha. Python
-knowledge is assumed.
+From weeks 2-5, students will work in teams of 2-4 people to develop a game.
+There will be a few milestones: implementing the game in a terminal, then
+implementing the game in a simple GUI, and finally (as an extension) writing a
+simple AI to play the game, hopefully beating its human opponent every time!
+Muahahahahaha. Python knowledge is assumed.
 
 Web Dev
 -------
 
-Students will work in teams (once again) to create a website -- what you create
-is up to you. We'll provide an introduction to the big names in web dev at the
-moment: Bootstrap and jQuery. If we're lucky, we'll also teach you what you
-need to know to write small web apps that have a Python back-end, using
-[Flask](http://flask.pocoo.org/). Python knowledge and basic HTML knowledge are
-a must.
+For weeks 6-10, students will work in teams (once again) to create a website --
+what you create is up to you. We'll provide an introduction to the big names in
+web dev at the moment: Bootstrap and jQuery. If we're lucky, we'll also teach
+you what you need to know to write small web apps that have a Python back-end,
+using [Flask](http://flask.pocoo.org/). Python knowledge and basic HTML
+knowledge are a must.
 
 Cryptography
 ------------
 
-We'll have a brief look at the Science in "Computer Science" by examining some
-simple encryption techniques. We'll use Python to turn some of the theory into
-practice, and a fairly solid mathematical foundation will probably help,
-depending on how in-depth we manage to go.
+For weeks 11 and 12, we'll have a brief look at the Science in "Computer
+Science" by examining some simple encryption techniques. We'll use Python to
+turn some of the theory into practice, and a fairly solid mathematical
+foundation will probably help, depending on how in-depth we manage to go.
